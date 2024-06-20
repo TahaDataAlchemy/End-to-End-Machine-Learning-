@@ -1,0 +1,18 @@
+
+Equation of a Line: In y = mx + c, m represents the slope and c represents the y-intercept. It's explained further in the accompanying file.
+
+Gradient Descent: Utilized for optimizing linear regression parameters iteratively, detailed explanations are provided in the associated document.
+
+Cost Function: Quantifies the difference between predicted and actual values, facilitating the best-fit line determination.
+
+Parameter Derivation: Details how derivatives guide parameter updates towards minimizing the cost function.
+
+Implementation: Discusses the practical application of gradient descent in finding optimal parameters.
+
+Process: Outlines the iterative steps involved in gradient descent for parameter optimization.
+
+Conclusion: Summarizes the significance of gradient descent in achieving accurate predictions in linear regression tasks.
+
+
+
+This folder also contains ERROR concepts comes in regression problems
