@@ -1,0 +1,35 @@
+                                                  **Definition**
+A technique to scale each feature to a scale of 0 to 1 based on its minimum and maximum values in a dataset.
+
+                                          **Techniques of Normalization**
+
+                                              1) MinMaxScaling
+                                              2) Mean Normalization
+                                              3) Max absolute
+                                              4) Robust Scaling
+
+                                               **MINMAX SCALING**
+Formula for MinMaxScaling:
+Xi = (Xi - Xmin) / (Xmax - Xmin)
+Xi = Current Value of Dataset
+Xmin = Minimum Value Of Dataset
+Xmax = Maximum Value of Dataset
+
+
+**For Example**
+
+| Weight | Normalization |
+|--------|---------------|
+| 130    | 1             |
+| 67     | 0.21          |
+| 50     | 0             |
+| 90     | 0.5           |
+
+
+**Working**
+
+Xi = (130 - 50) / (130 - 50)
+
+Actually, the MinMaxScaler converts data from its original distribution scale to a scale of 0 and 1.
+
+**Mean Normalization**

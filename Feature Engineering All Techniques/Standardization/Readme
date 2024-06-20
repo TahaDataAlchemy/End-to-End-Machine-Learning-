@@ -1,0 +1,24 @@
+The file contains social network ad data 
+
+the file is telling that how standardization works 
+
+Some KeyPoints of Standardization 
+
+1) Its a technique to standardize Input or Independent Variables in to a fixed range 
+2) standardization also called Z-score Normalization
+3) Formula for standardization is 
+                Xi - X/STD 
+                xi = column value
+                X = whole column mean
+                sTD = standard deviation
+4) after scaling  using Standardization the data metrics of  std = 1  and mean = 0
+5) Technique to make mean = 0 and std = 1 is also called Mean Centric
+6)  if std >1 we squeeze data to make std 1 and if std <1 we expand data to make std = 1
+7) Standardization Never Changed the distribution of Data
+8) it change only the measurement of scaling the data
+
+Nessacary Explanation of Code is written on the Jupyter File , You will Understand it Correctly 
+
+The main intuition of file is we are seeing that how algo effect if we scale the data and if we dont
+
+Thanks
